@@ -1,0 +1,4 @@
+2021-12-09 05:40:05,466 INFO org.springframework.boot.StartupInfoLogger [main] Starting LoggingdemoApplicationTests using Java 17.0.1 on shrijans-MacBook-Air.local with PID 51814 (started by shrijan in /Users/shrijan/Downloads/loggingdemo)
+2021-12-09 05:40:05,469 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.1, Spring v5.3.13
+2021-12-09 05:40:05,469 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-12-09 05:40:07,956 INFO org.springframework.boot.StartupInfoLogger [main] Started LoggingdemoApplicationTests in 3.036 seconds (JVM running for 4.487)
